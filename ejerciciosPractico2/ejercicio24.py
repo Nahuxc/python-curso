@@ -1,0 +1,1 @@
+#ejercicio nivel dificil 2 Simulador de login: pedí usuario y contraseña, validalos contra un diccionario y mostrá si inicia o no.

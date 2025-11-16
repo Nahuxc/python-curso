@@ -1,0 +1,31 @@
+linea1 a escribir
+linea2 a escribir
+linea3 a escribir
+linea4 a escribiresta es una nueva linea en formato a de apertura
+
+esta es una nueva linea en formato a de apertura
+
+esta es una nueva linea en formato a de apertura
+
+esta es una linea con for 1
+esta es una linea con for 2
+esta es una linea con for 3
+esta es una linea con for 4
+esta es una linea con for 5
+esta es una linea con for 6
+esta es una linea con for 7
+esta es una linea con for 8
+esta es una linea con for 9
+esta es una linea con for 10
+
+
+esta linea viene de un for pythonico 1
+esta linea viene de un for pythonico 2
+esta linea viene de un for pythonico 3
+esta linea viene de un for pythonico 4
+esta linea viene de un for pythonico 5
+esta linea viene de un for pythonico 6
+esta linea viene de un for pythonico 7
+esta linea viene de un for pythonico 8
+esta linea viene de un for pythonico 9
+esta linea viene de un for pythonico 10

@@ -1,0 +1,1 @@
+#ejercicio 14 Tené una lista de números y mostrale la suma de los tres primeros y los tres últimos.

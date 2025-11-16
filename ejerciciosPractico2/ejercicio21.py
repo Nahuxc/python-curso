@@ -1,0 +1,1 @@
+#ejercicio 15 nivel medio Dada una lista de diccionarios con alumnos y notas, mostrá los aprobados y desaprobados.
