@@ -1,0 +1,54 @@
+# web scraping y requests
+
+"""
+TEORIA
+
+¿que es el protocolo http?
+
+es un estandar de comunicacion entre un cliente con el servidor
+
+primero el cliente envia una peticion al servidor y
+el servidor devuelve una respuesta
+
+partes de la peticion
+
+verbo | path de URL | version
+
+          headers
+
+           body
+
+
+- verbo hace referencia a metodos:
+
+GET: Solicita un recurso
+POST: envia informacion
+PUT: actualiza o reemplaza informacion
+PATCH: edita un recurso
+DELETE: elimina un recurso
+head: solicita solo los HEADERS
+
+- para scraping unicamente se usan get y post
+
+- path de url (uniform resource locator): enlace de sitio web
+
+- version hace referencia a la version de protocolo que se use
+
+HEADERS: son una serie de meta datos los cuales son importantes para la respuesta del servidor
+
+
+body: es informacion que enviamos al servidor para que lo guarde en su base de datos o nos da una respuesta en html json, etc
+
+
+
+#########################
+
+CODIGO DE RESPUESTA - status code
+
+1** respuesta informativa
+2** respuesta correcta
+3** redireccion
+4** ERROR del cliente
+5** ERROR del servidor
+
+"""
